@@ -9,9 +9,8 @@ alteração feita no _github_
 
 Inserção de imagem :
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wallpapercave.com/wp/wp7250032.png">
+    ![alt text](https://r00t4bl3.com/uploads/java-logo-0144cb3160e1a24804cf2461be0e39af.png)
   
-  <img alt="Mostra uma imagem da logo do Java" src="hhttps://th.bing.com/th/id/OIP.VDyXEPxn5KtXzunkbxR8qAHaEK?pid=ImgDet&rs=1">
 </picture>
 
 Lista de tarefa:
